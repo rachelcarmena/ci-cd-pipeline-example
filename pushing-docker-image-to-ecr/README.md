@@ -6,4 +6,6 @@ Creating [docker image with an application](https://github.com/rachelcarmena/ci-
 
 It's based on repository [ci-cd-spring-boot-code](https://github.com/rachelcarmena/ci-cd-spring-boot-code).
 
-Previous repository include [_Jenkinsfile_](https://github.com/rachelcarmena/ci-cd-spring-boot-code/blob/master/Jenkinsfile) and [Jenkins job](jenkins/job/) only uses that file.
+Previous repository includes [_Jenkinsfile_](https://github.com/rachelcarmena/ci-cd-spring-boot-code/blob/master/Jenkinsfile).
+
+[Jenkins job](jenkins/job/) only uses that file.
